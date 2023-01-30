@@ -1,5 +1,5 @@
 # umairshahid
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Umair Shahid">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/umair-shahid-5955a5259/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/umair._.shahid/" title="Instagram"><img width="22" src="images/instagram.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/umair._.shahid/" title="Instagram"><img width="22" src="images/instagram.png"> Instagram</a></code>
   </h5>
 <br>
 <p align="center">
@@ -36,16 +36,14 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="C" height="25" src="https://www.pngplay.com/wp-content/uploads/5/Alphabet-C-PNG-HD-Quality.png"></code>
+  <code><img title="C++" height="25" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png?w=128&f=avif"></code>
+  <code><img title="Problem Solving" height="25" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/problem-solving-1523661-1290199.png?w=128&f=avif"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png?w=128&f=avif"></code>
+  <code><img title="CSS" height="25" src="https://cdn.iconscout.com/icon/free/png-256/css3-2474814-2056053.png?w=128&f=avif"></code>
+  <code><img title="Git" height="25" src="https://cdn.iconscout.com/icon/free/png-256/github-163-761603.png?w=128&f=avif"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png?w=128&f=avif"></code>
 </p>
 <hr>
 
